@@ -1,0 +1,777 @@
+{
+  "routes": [
+    {
+      "width": 1440,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/company/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/solutions/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/products/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/references/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/contact/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/solutions/parking/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/solutions/lpr/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/solutions/visitor/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/solutions/software/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/solutions/cctv/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/solutions/led/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/products/barrier/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/products/lpr/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/products/access/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/products/software/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/products/cctv-led/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/products/accessories/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "route": "/references/upcoming/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/company/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/solutions/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/products/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/references/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/contact/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/solutions/parking/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/solutions/lpr/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/solutions/visitor/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/solutions/software/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/solutions/cctv/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/solutions/led/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/products/barrier/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/products/lpr/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/products/access/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/products/software/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/products/cctv-led/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/products/accessories/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "route": "/references/upcoming/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/company/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/solutions/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/products/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/references/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/contact/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/solutions/parking/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/solutions/lpr/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/solutions/visitor/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/solutions/software/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/solutions/cctv/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/solutions/led/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/products/barrier/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/products/lpr/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/products/access/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/products/software/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/products/cctv-led/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/products/accessories/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "route": "/references/upcoming/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/company/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/solutions/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/products/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/references/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/contact/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/solutions/parking/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/solutions/lpr/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/solutions/visitor/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/solutions/software/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/solutions/cctv/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/solutions/led/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/products/barrier/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/products/lpr/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/products/access/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/products/software/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/products/cctv-led/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/products/accessories/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    },
+    {
+      "width": 320,
+      "route": "/references/upcoming/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "emptyLinks": 0,
+      "missingAlt": 0
+    }
+  ],
+  "accessibility": [
+    {
+      "route": "/",
+      "violations": []
+    },
+    {
+      "route": "/company/",
+      "violations": []
+    },
+    {
+      "route": "/solutions/",
+      "violations": []
+    },
+    {
+      "route": "/products/",
+      "violations": []
+    },
+    {
+      "route": "/references/",
+      "violations": []
+    },
+    {
+      "route": "/contact/",
+      "violations": []
+    },
+    {
+      "route": "/solutions/parking/",
+      "violations": []
+    },
+    {
+      "route": "/solutions/lpr/",
+      "violations": []
+    },
+    {
+      "route": "/solutions/visitor/",
+      "violations": []
+    },
+    {
+      "route": "/solutions/software/",
+      "violations": []
+    },
+    {
+      "route": "/solutions/cctv/",
+      "violations": []
+    },
+    {
+      "route": "/solutions/led/",
+      "violations": []
+    },
+    {
+      "route": "/products/barrier/",
+      "violations": []
+    },
+    {
+      "route": "/products/lpr/",
+      "violations": []
+    },
+    {
+      "route": "/products/access/",
+      "violations": []
+    },
+    {
+      "route": "/products/software/",
+      "violations": []
+    },
+    {
+      "route": "/products/cctv-led/",
+      "violations": []
+    },
+    {
+      "route": "/products/accessories/",
+      "violations": []
+    },
+    {
+      "route": "/references/upcoming/",
+      "violations": []
+    }
+  ],
+  "errors": [],
+  "filters": "passed",
+  "mobileMenu": "passed",
+  "faq": "passed",
+  "contact": "passed",
+  "internalLinks": 19,
+  "metadata": {
+    "/sitemap.xml": 200,
+    "/robots.txt": 200,
+    "/404.html": 200
+  }
+}
