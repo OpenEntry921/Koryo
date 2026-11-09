@@ -9,7 +9,7 @@
 - 고정 헤더와 모바일 메뉴, 제품 카테고리 필터, FAQ, 단계형 시스템 구성도
 - 자체 제작 SVG 주차관제 개념도, 이미지 누락 fallback, 자체 호스팅 한글 폰트
 - metadata, Open Graph PNG, sitemap, robots, 404
-- [데스크톱 캡처](previews/home-desktop.png) / [모바일 캡처](previews/home-mobile.png)
+- [데스크톱 캡처](https://github.com/OpenEntry921/Koryo/blob/codex/koryo-corporate-website/docs/previews/home-desktop.png) / [모바일 캡처](https://github.com/OpenEntry921/Koryo/blob/codex/koryo-corporate-website/docs/previews/home-mobile.png)
 
 ## 파일 구조
 
@@ -23,7 +23,7 @@
 - 내부 경로 19개 응답 200, 미확인 연락처 링크·허위 문의폼 없음
 - axe WCAG 2 A/AA 및 2.1 AA: 19개 화면 자동 검사 위반 0
 - 운영 의존성 audit 취약점 0. compression 수정 버전 override
-- [상세 검증 기록](verification.md), [브라우저 원시 결과](browser-results.json)
+- [상세 검증 기록](https://github.com/OpenEntry921/Koryo/blob/codex/koryo-corporate-website/docs/verification.md), [브라우저 원시 결과](https://github.com/OpenEntry921/Koryo/blob/codex/koryo-corporate-website/docs/browser-results.json)
 
 Safari·실물 기기·실제 Cloudtype 배포·실제 문의 수신은 검증하지 않았습니다.
 

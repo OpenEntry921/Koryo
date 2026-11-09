@@ -42,3 +42,13 @@ CHROMIUM_PATH=/usr/bin/chromium node scripts/verify-browser.mjs
 - Cloudtype 실제 배포, 도메인 연결, 외부 지도 서비스 상태, 소셜 플랫폼 OG 캐시 검증은 수행하지 않았습니다.
 - 실제 회사정보, 고객 공개 승인 및 공급 범위 확인은 별도 필요합니다.
 - 원격 main에 기준 커밋이 없어 PR은 생성 요청 결과에 따라 제한됩니다. main을 임의 생성·수정하지 않습니다.
+
+## GitHub 반영 결과
+
+작업 브랜치 `codex/koryo-corporate-website` 최초 커밋 `02ff6b5` push 성공. 원격 ref 목록에는 작업 브랜치만 존재하고 `main`은 없습니다. GitHub 커넥터로 지정 제목·본문·head·base를 사용해 실제 PR 생성 요청을 수행했으나 다음 오류로 거부되었습니다.
+
+```json
+{"status":422,"message":"Validation Failed","errors":[{"resource":"PullRequest","field":"base","code":"invalid"}]}
+```
+
+PR URL은 생성되지 않았습니다. main 직접 커밋·생성, PR 병합, 자동 병합, 자동 배포를 수행하지 않았습니다. 저장소 관리자가 main 초기화 방침을 확정해 기준 커밋을 만든 뒤, 작업 브랜치 변경을 해당 기준 이력 위에 연결하여 PR을 재요청해야 합니다. 최초 이력이 서로 독립적인 경우 README 충돌 등을 검토하며 rebase 또는 변경 이식을 수행해야 합니다. 승인 없이 main을 초기화하지 않습니다. 준비된 본문은 [pull-request.md](pull-request.md)에 있습니다.
